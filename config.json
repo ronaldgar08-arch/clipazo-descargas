@@ -1,0 +1,35 @@
+{
+  "_ayuda": "Lo leen la app (cada 6 horas) y la web. Cambia aquí anuncios, avisos, la versión nueva y los límites del plan gratis sin publicar otra versión. Ver GUIA_PUBLICAR.md.",
+
+  "latest_version": "2.0.0",
+  "min_version": "2.0.0",
+  "download_url": "https://github.com/ronaldgar08-arch/clipazo-descargas/releases/latest/download/Clipazo-Setup.exe",
+  "notes": "",
+
+  "buy_url": "",
+  "price_html": "USD 6,99 <small>/ mes</small>",
+
+  "announcement": {
+    "text": "",
+    "url": ""
+  },
+
+  "ads": [
+    {
+      "title": "Tu marca aquí",
+      "text": "Llega a miles de streamers. Escríbenos para patrocinar.",
+      "url": "mailto:clipazosupport@gmail.com?subject=Patrocinio",
+      "weight": 1
+    }
+  ],
+
+  "free_limits": {
+    "max_clips_per_video": 5,
+    "max_height": 1080,
+    "app_watermark": true,
+    "publish": false,
+    "ai": false,
+    "autopilot": false,
+    "batch_edit": false
+  }
+}
